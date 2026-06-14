@@ -73,7 +73,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
                 transition={{ duration: 0.7, delay: 0.2 }}
                 className="space-y-4"
               >
-                <p className="font-serif text-xl md:text-2xl text-plum-deep tracking-wide font-normal italic opacity-95">
+                <p className="font-sans text-xl md:text-2xl text-plum-deep tracking-wide font-normal italic opacity-95">
                   {siteConfig.doctor.qualifications} &mdash; Reg No. {siteConfig.doctor.registrationNumber}
                 </p>
                 <div className="w-16 h-0.5 bg-plum-deep/30 rounded-full"></div>

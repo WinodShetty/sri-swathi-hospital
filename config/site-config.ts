@@ -36,7 +36,16 @@ export const siteConfig = {
     pincode: "505327",
     address: "Near Jambi-Gadde, Street Beside Lotus Pharmacy, Opposite ATM Hospital, Jagtial, Telangana – 505327",
     opdTimings: "Monday - Saturday: 10:00 AM - 2:00 PM & 5:00 PM - 8:00 PM (Sunday Closed)",
-    googleMapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.3411135249497!2d78.9103399!3d18.8021028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bce09ef96a0b9fb%3A0xe5a36395dc7cff62!2sJagtial%2C%20Telangana!5e0!3m2!1sen!2sin!4v1718300000000!5m2!1sen!2sin",
+    googleMapEmbedUrl: `<iframe
+  src="https://www.google.com/maps/embed?pb=!4v1781436713782!6m8!1m7!1sMa5Nm-XZlA0TD6gU0asmmw!2m2!1d18.79540553936938!2d78.92226336887876!3f211.3821981671345!4f4.614859341751355!5f0.4000000000000002"
+  width="100%"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade">
+</iframe>`,
+
     socials: {
       facebook: "https://facebook.com/sriswathihospitals",
       instagram: "https://instagram.com/sriswathihospitals",
