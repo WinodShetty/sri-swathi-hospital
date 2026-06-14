@@ -4,13 +4,13 @@
  */
 
 export const siteConfig = {
-  hospitalName: "Sri Swathi Hospitals",
+  hospitalName: "Sri Swathi Hospital",
   specialization: "Gynecology & Maternity Center",
   
   doctor: {
     name: "Dr. U. Swathi",
     qualifications: "MBBS, DGO",
-    registrationNumber: "86704",
+    registrationNumber: "86794",
     role: "Senior Consultant Gynecologist & Maternity Care Specialist",
     bio: "Dr. U. Swathi is a highly qualified and trusted Gynecology and Maternity Care specialist with MBBS and DGO qualifications. With professional registration number 86704, she is dedicated to providing compassionate, evidence-based care for women at all stages of life—specializing in advanced infertility treatments, comprehensive pregnancy care, high-risk maternity management, and comprehensive women's wellness.",
     avatarUrl: "/Swathi.png", // High-end royalty-free professional portrait placeholder

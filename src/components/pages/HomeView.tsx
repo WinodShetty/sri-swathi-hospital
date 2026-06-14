@@ -41,7 +41,7 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
             </div>
             {/* Visual indicator stamp */}
             <p className="mt-4 font-sans text-[11px] font-semibold text-plum-deep uppercase tracking-widest bg-plum-deep/10 px-4 py-2 rounded-full border border-plum-deep/15">
-              Senior Consultant Specialist
+              Dr. U. Swathi MBBS, DGO — Gynecology & Women Care 
             </p>
           </motion.div>
 
@@ -81,19 +81,19 @@ export default function HomeView({ onNavigate }: HomeViewProps) {
                   <p className="font-sans text-[11px] uppercase tracking-wider text-plum-deep font-bold">Specializations & Specialties:</p>
                   <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs font-semibold text-charcoal-text pb-2 max-w-xl">
                     <li className="flex items-center gap-2.5 bg-lavender-secondary/40 px-3.5 py-2.5 rounded-xl border border-lavender-secondary/60">
-                      <span className="w-2 h-2 rounded-full bg-[#5A2D82] shrink-0 animate-pulse" />
+                      <span className="w-2 h-2 rounded-full bg-[#EC407A] shrink-0 animate-pulse" />
                       <span>Infertility Specialist</span>
                     </li>
                     <li className="flex items-center gap-2.5 bg-lavender-secondary/40 px-3.5 py-2.5 rounded-xl border border-lavender-secondary/60">
-                      <span className="w-2 h-2 rounded-full bg-[#5A2D82] shrink-0 animate-pulse" />
+                      <span className="w-2 h-2 rounded-full bg-[#EC407A] shrink-0 animate-pulse" />
                       <span>Ladies Specialist</span>
                     </li>
                     <li className="flex items-center gap-2.5 bg-lavender-secondary/40 px-3.5 py-2.5 rounded-xl border border-lavender-secondary/60">
-                      <span className="w-2 h-2 rounded-full bg-[#5A2D82] shrink-0 animate-pulse" />
+                      <span className="w-2 h-2 rounded-full bg-[#EC407A] shrink-0 animate-pulse" />
                       <span>Gynecologist</span>
                     </li>
                     <li className="flex items-center gap-2.5 bg-lavender-secondary/40 px-3.5 py-2.5 rounded-xl border border-lavender-secondary/60">
-                      <span className="w-2 h-2 rounded-full bg-[#5A2D82] shrink-0 animate-pulse" />
+                      <span className="w-2 h-2 rounded-full bg-[#EC407A] shrink-0 animate-pulse" />
                       <span>Maternity Care Specialist</span>
                     </li>
                   </ul>

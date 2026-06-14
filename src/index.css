@@ -5,8 +5,8 @@
   --color-lavender-secondary: #DCCEF3;
   --color-lavender-medium: #E2D5F3;
   --color-lavender-light: #EDE7F6;
-  --color-plum-deep: #5A2D82;
-  --color-plum-medium: #743FAB;
+  --color-plum-deep: #D81B60;
+  --color-plum-medium: #EC407A;
   --color-plum-light: #ECE2F8;
   --color-charcoal-text: #1F2937;
   --font-serif: "Playfair Display", Georgia, serif;
@@ -51,5 +51,5 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #5A2D82;
+  background: #E91E63;
 }

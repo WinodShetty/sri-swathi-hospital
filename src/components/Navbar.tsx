@@ -56,7 +56,11 @@ export default function Navbar({ activePage, onNavigate }: NavbarProps) {
           className="flex items-center gap-3 cursor-pointer group pointer-events-auto"
           id="navbar-brand-logo"
         >
-          <LogoWidget size={38} color="#5A2D82" className="transition-transform duration-500 group-hover:rotate-12" />
+          <img
+  src="/logo.png"
+  alt="Sri Swathi Hospitals"
+  className="h-20 w-20 md:h-24 md:w-24 rounded-full object-cover border-2 border-white shadow-lg transition-transform duration-500 group-hover:scale-105"
+/>
           <div className="flex flex-col">
             <span className="font-serif text-lg md:text-xl font-bold tracking-tight text-plum-deep leading-none">
               {siteConfig.hospitalName}
