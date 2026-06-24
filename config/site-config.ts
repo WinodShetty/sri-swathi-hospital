@@ -116,5 +116,5 @@ export const siteConfig = {
     white: "5% (Clean Modernity)"
   },
 
-  credits: "Developed by Vinod Shetty"
+  credits: "Website Designed & Developed by Engineer VK(Vinod Shetty)"
 };
