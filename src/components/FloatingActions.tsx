@@ -10,7 +10,7 @@ export default function FloatingActions() {
   const whatsappUrl = `https://wa.me/${whatsappNumber.replace(/[^0-9]/g, '')}?text=${welcomeText}`;
 
   return (
-    <div className="fixed bottom-6 right-6 z-50 flex flex-col gap-3.5" id="floating-actions-dock">
+    <div className="fixed bottom-24 right-6 z-50 flex flex-col gap-3.5" id="floating-actions-dock">
       {/* Dynamic pulse background to raise ambient curiosity */}
       
       {/* Floating 1-Tap Mobile Call Button */}
